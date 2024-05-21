@@ -1,6 +1,6 @@
 # About Me:
 Hello, I'm Jesús! 👋<br>🚀 As a highly skilled and motivated data science student, I thrive on transforming complex datasets into clear predictive models and actionable insights. My expertise spans:<br><br>🐍 Advanced programming in Python and R<br>📊 In-depth statistical analysis<br>🤖 Proficiency of machine learning algorithms<br>✨ Experience in data visualization techniques<br>🔍 Driven by a zeal to tackle complex challenges, I am on the lookout for opportunities in the data science field where I can leverage my analytical skills and passion for identifying patterns and solutions. <br><br>🌐 Apart from my data science journey, I am also passionate about web development, exploring how to enhance user experiences on the digital front.<br><br>💡 I am always eager to learn, ready to assist others, and thrive in collaborative environments. My ultimate goal is to be part of a team where I can make significant contributions, continuously enhance my professional skills, and play a pivotal role in driving organizational success through innovative data analysis and strategic insights.<br><br>Let's connect and make data do the talking! 🚀
-### Contact
+### Contact:
 - 📧 Email: [jdam18102001@gmail.com](mailto:jdam18102001@gmail.com)
 
 ## 🌐 Socials:
