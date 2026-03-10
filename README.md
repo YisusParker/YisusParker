@@ -11,12 +11,6 @@ I'm a Data Scientist building end-to-end solutions that turn complex data into a
 - 💻 Develop responsive web applications with modern frameworks
 - 🔍 Extract patterns from unstructured data using NLP techniques
 
-*Currently:*
-- Finishing my BS in Data Science at Universidad del Norte
-- Working on national-scale educational monitoring projects
-- Certified through MIT's Applied Data Science Program
-
-I'm passionate about bridging technical depth with product thinking to deliver solutions that create measurable impact. Always eager to collaborate and learn!
 
 ### 📧 Contact
 Email: [jesusarevalomontilla@gmail.com](mailto:jesusarevalomontilla@gmail.com)
